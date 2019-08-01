@@ -19,11 +19,11 @@ Quick search in Atlassian Confluence
 
 2. Type keywords to search.
 
-    ![Screen Shot](https://raw.githubusercontent.com/Thare-Lam/alfred-zcy-confluence-search/master/screenshot.jpg)
+    ![Screen Shot](https://raw.githubusercontent.com/Thare-Lam/alfred-atlassian-confluence-search/master/screenshot.jpg)
 
 ## Download
 
-[Atlassian Confluence Search](https://github.com/Thare-Lam/alfred-zcy-confluence-search/releases)
+[Atlassian Confluence Search](https://github.com/Thare-Lam/alfred-atlassian-confluence-search/releases)
 
 ## Upgrade Log
 
